@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKiselev2001&count_private=true&theme=react&show_icons=true&hide=issues,contribs )
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKiselev2001&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKiselev2001&hide=css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
@@ -19,7 +20,4 @@
 
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
-
-[![Email](https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=Mail.Ru&logoColor=005FF9)](mailto:kissergey98@mail.ru)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kissergey)
