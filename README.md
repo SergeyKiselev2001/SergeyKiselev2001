@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKiselev2001&hide=css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyKiselev2001&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
