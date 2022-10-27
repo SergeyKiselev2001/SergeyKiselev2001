@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### About me:
+
+🐤 age - 21yo
+
+💼 profession - frontend developer
+
+🎓 education - mtkp bmstu college (applied computer science)
+
+⚡️ events - sitis ctf 2018, gamejam 2021, ctyptonite ctf 2022
+
+📘 last books - you don't know js, clean code, grokking algorithms
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyKiselev2001&count_private=true&theme=react&show_icons=true&hide=issues,contribs )
 
@@ -26,7 +37,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![styled-components](https://img.shields.io/badge/-styled%20components-090909?style=for-the-badge&logo=styled-components&logoColor=DB7093)
-
 
 
 ### Socials:
