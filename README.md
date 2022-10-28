@@ -8,7 +8,7 @@
 
 🎓 education - mtkp bmstu college (applied computer science)
 
-⚡️ events - sitis ctf 2018, gamejam 2021, ctyptonite ctf 2022
+⚡️ events - sitis ctf 2018, gamejam 2021, ctyptonite ctf 2022, ozon tech frontend meetup 2022
 
 📘 last books - you don't know js, clean code, grokking algorithms
 
