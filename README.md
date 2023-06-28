@@ -2,7 +2,7 @@
 
 ### About me:
 
-🐤 age - 21yo
+🐤 age - 22yo
 
 💼 profession - frontend developer
 
